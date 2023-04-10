@@ -5,7 +5,8 @@
 import torch
 from torch import nn
 from torch.autograd import Function
-import kernelconv2d_cuda
+#import kernelconv2d_cuda
+import KernelConv2D_cuda
 import random
 
 
